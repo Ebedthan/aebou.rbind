@@ -24,7 +24,7 @@ weight = 5
 [[education.courses]]
   course = "Bsc. in Agronomy"
   institution = "Institut National Polytechnique de Yamoussoukro"
-  year = 2009
+  year = 2015
  
 +++
 
