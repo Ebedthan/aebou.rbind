@@ -32,7 +32,7 @@ filter_default = 0
   name = "Bioinformatics"
   tag = ".Bioinformatics"
  
-[filter]]
+[[filter]]
   name = "R"
   tag = ".R"
 
