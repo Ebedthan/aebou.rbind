@@ -29,12 +29,12 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "bioSyntax"
+  tag = ".biosyntax"
 
 [[filter]]
   name = "Other"
-  tag = ".demo"
+  tag = ".other"
 
 +++
 
