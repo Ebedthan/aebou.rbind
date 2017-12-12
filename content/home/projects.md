@@ -29,8 +29,12 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "bioSyntax"
-  tag = ".biosyntax"
+  name = "Bioinformatics"
+  tag = ".Bioinformatics"
+ 
+[filter]]
+  name = "R"
+  tag = ".R"
 
 [[filter]]
   name = "Other"
