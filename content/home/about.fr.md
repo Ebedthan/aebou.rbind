@@ -14,7 +14,7 @@ List your qualifications (such as academic degrees).
 
 [[education.courses]] course = "Msc. Défense des cultures (Bioinformatique)" institution = "Institut National Polytechnique de Yamoussoukro" year = 2017
 
-[[education.courses]] course = "Bsc. en Agronomie générale institution = "Institut National Polytechnique de Yamoussoukro" year = 2015
+[[education.courses]] course = "Bsc. en Agronomie générale" institution = "Institut National Polytechnique de Yamoussoukro" year = 2015
 
 +++
 Biographie
