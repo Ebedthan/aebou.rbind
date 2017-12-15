@@ -1,25 +1,33 @@
-
-
 +++
 # About/Biography widget.
-
-widget = "about.fr" active = true date = "2016-04-20T00:00:00"
+widget = "about.fr"
+active = true
+date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
-
 weight = 5
 
 # List your academic interests.
-
-[interests] interests = [ "Bioinformatique", "Genomic Data Science", "Biologie Moléculaire" ]
+[interests]
+  interests = [ 
+    "Bioinformatique",
+    "Genomic Data Science",
+    "Biologie Moléculaire" 
+  ]
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "Msc. Défense des cultures (Bioinformatique)" 
+  institution = "Institut National Polytechnique de Yamoussoukro" 
+  year = 2017
 
-[[education.courses]] course = "Msc. Défense des cultures (Bioinformatique)" institution = "Institut National Polytechnique de Yamoussoukro" year = 2017
-
-[[education.courses]] course = "Bsc. en Agronomie générale" institution = "Institut National Polytechnique de Yamoussoukro" year = 2015
+[[education.courses]]
+  course = "Bsc. en Agronomie générale"
+  institution = "Institut National Polytechnique de Yamoussoukro"
+  year = 2015
 
 +++
+
 # Biographie
 
 De par ma formation, je suis ingénieur [phytiatre](http://www.nzdl.org/gsdlmod?e=d-00000-00---off-0unesco--00-0----0-10-0---0---0direct-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-00&a=d&cl=CL2.2&d=HASH274189748349ba014ac049.5.2.fc) (plus généralement connu sous le terme défense des cultures) . 
