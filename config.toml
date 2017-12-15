@@ -243,12 +243,12 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Posts"
-  url = "/posts/"
+  url = "#posts"
   weight = 2
   
 [[menu.main]]
-  name = "Blog en francais"
-  url = "#Blog"
+  name = "Posts en francais"
+  url = "#french"
   weight = 3
 
 [[menu.main]]
