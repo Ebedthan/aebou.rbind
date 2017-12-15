@@ -270,7 +270,7 @@ defaultContentLanguageInSubdir = false
 
 #[[Languages.fr.menu.main]]
 #  name = "Publications"
-#  url = "#publications_selected.fr"
+#  url = "#publications_selected."
 #  weight = 2
 
 [[Languages.fr.menu.main]]
@@ -279,7 +279,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[Languages.fr.menu.main]]
-  name = "Projets"
+  name = "Projects"
   url = "#projects"
   weight = 3
 
@@ -289,8 +289,8 @@ defaultContentLanguageInSubdir = false
 #  weight = 5
 
 [[Languages.fr.menu.main]]
-  name = "Contacts"
-  url = "#contacts"
+  name = "Contact"
+  url = "#contact"
   weight = 4
 
 # Taxonomies.
