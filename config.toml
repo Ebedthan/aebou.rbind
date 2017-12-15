@@ -244,25 +244,17 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Posts"
   url = "/posts/"
-  identifier = "Posts"
   weight = 2
   
 [[menu.main]]
-  name = "English"
-  url = "/posts/english/"
-  parent = "Posts"
-  weight = 1
-  
-[[menu.main]]
-  name = "Francais"
-  url = "/posts/french/"
-  parent = "Posts"
-  weight = 2
+  name = "Blog en francais"
+  url = "#Blog"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 #[[menu.main]]
 #  name = "Teaching"
@@ -272,7 +264,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
@@ -286,3 +278,5 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+[Languages.fr]
+  languageCode = "fr-fr"
