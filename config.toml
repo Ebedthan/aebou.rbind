@@ -245,16 +245,11 @@ defaultContentLanguageInSubdir = false
   name = "Posts"
   url = "#posts"
   weight = 2
-  
-[[menu.main]]
-  name = "Posts en francais"
-  url = "#french"
-  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 3
 
 #[[menu.main]]
 #  name = "Teaching"
@@ -264,7 +259,45 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 4
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  
+# Translations in french
+
+[[Languages.fr.menu.main]]
+  name = "Accueil"
+  url = "#about.fr"
+  weight = 1
+
+#[[Languages.fr.menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected.fr"
+#  weight = 2
+
+[[Languages.fr.menu.main]]
+  name = "Posts"
+  url = "#posts.fr"
+  weight = 2
+
+[[Languages.fr.menu.main]]
+  name = "Projets"
+  url = "#projects.fr"
+  weight = 3
+
+#[[Languages.fr.menu.main]]
+#  name = "Teaching"
+#  url = "#teaching.fr"
+#  weight = 5
+
+[[Languages.fr.menu.main]]
+  name = "Contacts"
+  url = "#contact.fr"
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
