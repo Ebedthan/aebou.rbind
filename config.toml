@@ -279,7 +279,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[Languages.fr.menu.main]]
-  name = "Projects"
+  name = "Projets"
   url = "#projects"
   weight = 3
 
