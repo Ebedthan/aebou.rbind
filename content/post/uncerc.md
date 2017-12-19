@@ -1,4 +1,4 @@
 # Site under construction
 
-![](static/img/underc.png)
+![](https://github.com/Ebedthan/aebou.rbind/static/img/underc.png)
 
